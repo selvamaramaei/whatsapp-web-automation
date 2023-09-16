@@ -15,7 +15,7 @@ This project is a Python script that automates sending messages on WhatsApp usin
   ```bash
   python whatsapp_automation.py
 
-  ## Customize
-  You can customize the message you want to send by modifying the send_message function in the script. Change the message content as needed.
+## Customize
+You can customize the message you want to send by modifying the send_message function in the script. Change the message content as needed.
 
-  
+
