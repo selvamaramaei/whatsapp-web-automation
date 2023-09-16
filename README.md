@@ -1,6 +1,30 @@
 # whatsapp-web-automation
 This project is a Python script that automates sending messages on WhatsApp using the Selenium web automation library and managing data with Pandas and Openpyxl. It allows you to send messages to multiple WhatsApp contacts , listed in an Excel file. The script logs the sent messages and updates the spreadsheet with the status and timestamp of each message sent.
 
+## Features
+
+- Automated WhatsApp Messaging: Send messages to multiple WhatsApp contacts with automated script execution.
+
+- Contact List Integration: Utilize an Excel spreadsheet to manage your contact list, including phone numbers and contact names.
+
+- Customizable Messages: Easily customize the content of your messages for a personalized touch.
+
+- Message Tracking: Keep track of the status and timestamp of sent messages directly in the spreadsheet.
+
+- Interactive Script: The script interacts with the WhatsApp Web interface, allowing you to scan the QR code for login.
+
+- Error Handling: Provides basic error handling to ensure the script continues processing even if it encounters issues with individual contacts.
+
+- User-Friendly: Designed for ease of use, with clear instructions for setup and execution.
+
+- Open Source: Modify and enhance the script to suit your specific automation needs.
+
+- Educational Purpose: This project is intended for educational purposes to demonstrate web automation using Python and Selenium.
+
+- Respectful Automation: Use this script responsibly and in compliance with WhatsApp's terms of service and applicable laws.
+
+
+
 ## Usage
 
 - Clone this repository or download the script to your local machine.
